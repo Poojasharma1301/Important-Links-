@@ -11,6 +11,9 @@
 5. https://www.examveda.com/mcq-question-on-arithmetic-ability/
 6. https://youtube.com/playlist?list=PLpyc33gOcbVADMKqylI__O_O_RMeHTyNK
 
+## 100 Codes 
+1.https://prepinsta.com/top-100-codes/
+
 ## Data Structure and Algorithims - 
 1. https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
 2. https://youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p
