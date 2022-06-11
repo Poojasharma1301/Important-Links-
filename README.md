@@ -2,6 +2,8 @@
 ## Programming Basics (C) - 
 1. https://www.youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh
 2. https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR
+3. https://www.youtube.com/watch?v=KJgsSFOSQv0&ab_channel=freeCodeCamp.org
+4. https://www.geeksforgeeks.org/c-programming-language/
 
 ## Aptitude -
 1. https://www.indiabix.com/
@@ -12,12 +14,16 @@
 6. https://youtube.com/playlist?list=PLpyc33gOcbVADMKqylI__O_O_RMeHTyNK
 
 ## 100 Codes 
-1.https://prepinsta.com/top-100-codes/
+1. https://prepinsta.com/top-100-codes/
+2. https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments
 
 ## Data Structure and Algorithims - 
 1. https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
 2. https://youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p
 3. https://www.youtube.com/c/LoveBabbar1/playlists
+4. https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
+5. https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+6. https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi
 
 ## Pseudo Codes - 
 1. https://www.youtube.com/playlist?list=PLT_1TQR4DzVRUKOqK3XhktFUFt-1As6MS
