@@ -51,4 +51,51 @@
 11. Power BI- https://ineuron.ai/home/coursedetail/powerbi--100
 12. Tableau- https://ineuron.ai/home/coursedetail/tableau-101
 
+## Youtube Links:
+
+1. 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺s (Python) <br>
+-Programming in Python -> (https://lnkd.in/dbgkGPmE)<br>
+-DSA in Python -> (https://lnkd.in/dMMsdcD2)<br>
+-DS-ALGO -> (https://lnkd.in/dB4KB5ED)<br>
+-Tech With Tim -> (https://lnkd.in/dw8KdMh5)<br>
+-Python Engineer -> (https://lnkd.in/dWmYmfb7)<br>
+
+2. 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺s (C++)<br>
+-Programming in C++ -> (https://lnkd.in/dNT56Edb)<br>
+-ARRAYS -> (https://lnkd.in/dG69DAEZ)<br>
+-STRING -> (https://lnkd.in/dxhW3xNf)<br>
+-BINARY SEARCH -> (https://lnkd.in/dTBsx5Ev)<br>
+-Dynamic Programming<br>
+-Aditya Verma -> (https://lnkd.in/dsw7pW8U)<br>
+-TakeuForward -> (https://lnkd.in/d9BAKZUd)<br>
+-STACK -> (https://lnkd.in/d6AxJtZk)<br>
+-HEAP -> (https://lnkd.in/diYeD2Gq)<br>
+-SLIDING WINDOW -> (https://lnkd.in/dxXNKFgQ)<br>
+-RECURSION , BACKTRACKING -> (https://lnkd.in/dureanDE)<br>
+-TREES -> (https://lnkd.in/dtrHn5ia)<br>
+-GRAPHS -> (https://lnkd.in/dCrN_fxD)<br>
+-LINKEDLIST -> (https://lnkd.in/dfgQ-bbz)<br>
+-TRIE -> (https://lnkd.in/d3e-wm_J)<br>
+-SEGMENT TREE -> (https://lnkd.in/dytGUaGB)<br>
+-STL -> (https://lnkd.in/dVsAtheC)<br>
+-HASHING -> (https://lnkd.in/dM77crfV)<br>
+-COMPETITIVE PROGRAMMING ->(https://lnkd.in/d3z6jKE4)<br>
+-CodeWithTwins -> (https://lnkd.in/dGM5q8uC)<br>
+
+3. 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 (𝗝𝗔𝗩𝗔) 🧵<br>
+
+-Programming in JAVA -> (https://lnkd.in/dYyk2NSV)<br>
+-Kunal Kushwaha -> (https://lnkd.in/dwMzzw5q)<br>
+-Pepcoding -> (https://lnkd.in/dggCsEc3)<br>
+-Durga Sir -> (https://lnkd.in/dXF5ifkj)<br>
+-Anuj Bhaiya -> (https://lnkd.in/drDxhJng)<br>
+-Apna College -> (https://lnkd.in/du-TtUuk)<br>
+-Dinesh Varyani -> (https://lnkd.in/dSicpCsX)<br>
+-ForMyScholars -> (https://lnkd.in/d4fzq_46)<br>
+-CodingNinjas -> (https://lnkd.in/dNYufaTq)<br>
+
+## Interview Experience :<br>
+1. https://desiqna.in/<br>
+
+
 
