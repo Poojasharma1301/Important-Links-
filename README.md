@@ -34,11 +34,11 @@
 2. https://www.geeksforgeeks.org/placements-gq/
 
 ## Other Important Links - 
-1. https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3 <br>
-2. https://www.edureka.co/blog/interview-questions/dbms-interview-questions <br>
-3. https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv <br>
-4. https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw@2Ux7TurymNZXyobsnZtH <br>
-5. https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+1. MYSQL Github Quries: https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3 <br>
+2. DBMS Interview Questions: https://www.edureka.co/blog/interview-questions/dbms-interview-questions <br>
+3. Computer Networking : https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv <br>
+4. OOPS Programming : https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw@2Ux7TurymNZXyobsnZtH <br>
+5. DSA CodeHelp Github : https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
 
 ## All Companies on singal channel:
 1. https://www.youtube.com/c/PrepInsta
